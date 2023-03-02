@@ -1,0 +1,42 @@
+{
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "QuarterEllipseConstruct",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":7,"isDnD":false,},
+  ],
+  "managed": true,
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Terrain Constructs",
+    "path": "folders/Objects/Level Elements/Common/Terrain/Terrain Constructs.yy",
+  },
+  "parentObjectId": {
+    "name": "QuarterEllipse",
+    "path": "objects/QuarterEllipse/QuarterEllipse.yy",
+  },
+  "persistent": false,
+  "physicsAngularDamping": 0.1,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.2,
+  "physicsGroup": 0,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.1,
+  "physicsObject": false,
+  "physicsRestitution": 0.1,
+  "physicsSensor": false,
+  "physicsShape": 0,
+  "physicsShapePoints": [
+    {"x":0.0,"y":0.0,},
+    {"x":16.0,"y":16.0,},
+  ],
+  "physicsStartAwake": true,
+  "properties": [],
+  "solid": false,
+  "spriteId": {
+    "name": "QuarterEllipseMaskSprite",
+    "path": "sprites/QuarterEllipseMaskSprite/QuarterEllipseMaskSprite.yy",
+  },
+  "spriteMaskId": null,
+  "visible": false,
+}

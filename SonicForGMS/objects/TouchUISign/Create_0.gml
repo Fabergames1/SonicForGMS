@@ -1,0 +1,14 @@
+/// @description Initialize
+image_speed = 0;
+image_alpha = 0;
+enabled = false;
+touched = false;
+event = "";
+device = -1;
+posX = undefined;
+posY = undefined;
+min_alpha = 0.25;
+max_alpha = 0.5;
+fade_rate = 0.025;
+duration = 0;
+wait_to_fade = 60;

@@ -1,0 +1,1 @@
+/// @description Ascend (stub)
